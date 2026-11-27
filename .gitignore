@@ -11,3 +11,5 @@ __pycache__/
 .vscode/
 .idea/
 Thumbs.db
+data_description_v32.md
+TASK.md
